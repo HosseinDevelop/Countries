@@ -1,4 +1,4 @@
-package com.hd.countries
+package com.hd.countries.ui.main
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
